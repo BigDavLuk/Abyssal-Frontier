@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/desktop-download/v1.03.zip",
+      "destination": "/api/desktop-download"
+    },
+    {
+      "source": "/desktop-download/upload",
+      "destination": "/desktop-upload.html"
+    }
+  ]
+}
